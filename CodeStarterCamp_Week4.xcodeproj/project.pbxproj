@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		34811DE8274B93FB00A1E994 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34811DE7274B93FB00A1E994 /* main.swift */; };
 		43C3B5132B9A03340057FEF5 /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C3B5122B9A03340057FEF5 /* Activity.swift */; };
+		43E7C63D2B9D64AB00DD74D9 /* Routine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E7C63C2B9D64AB00DD74D9 /* Routine.swift */; };
 		43EABBA92B9B620D00A9BF9E /* BodyCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43EABBA82B9B620D00A9BF9E /* BodyCondition.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		34811DE4274B93FB00A1E994 /* CodeStarterCamp_Week4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeStarterCamp_Week4; sourceTree = BUILT_PRODUCTS_DIR; };
 		34811DE7274B93FB00A1E994 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		43C3B5122B9A03340057FEF5 /* Activity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Activity.swift; sourceTree = "<group>"; };
+		43E7C63C2B9D64AB00DD74D9 /* Routine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routine.swift; sourceTree = "<group>"; };
 		43EABBA82B9B620D00A9BF9E /* BodyCondition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BodyCondition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +66,7 @@
 				34811DE7274B93FB00A1E994 /* main.swift */,
 				43C3B5122B9A03340057FEF5 /* Activity.swift */,
 				43EABBA82B9B620D00A9BF9E /* BodyCondition.swift */,
+				43E7C63C2B9D64AB00DD74D9 /* Routine.swift */,
 			);
 			path = CodeStarterCamp_Week4;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				43C3B5132B9A03340057FEF5 /* Activity.swift in Sources */,
 				34811DE8274B93FB00A1E994 /* main.swift in Sources */,
+				43E7C63D2B9D64AB00DD74D9 /* Routine.swift in Sources */,
 				43EABBA92B9B620D00A9BF9E /* BodyCondition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
